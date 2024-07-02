@@ -1,0 +1,24 @@
+{
+  "name": "asd-test-stepushyn",
+  "version": "1.0.0",
+  "description": "Тестове середовище",
+  "main": "index.js",
+  "scripts": {
+    "test": " npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepushynAndriy/npm_test.git"
+  },
+  "keywords": [
+    "test",
+    "stepushyn",
+    "asd"
+  ],
+  "author": "Stepushyn Andrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepushynAndriy/npm_test/issues"
+  },
+  "homepage": "https://github.com/stepushynAndriy/npm_test#readme"
+}
